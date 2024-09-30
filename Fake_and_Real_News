@@ -1,1 +1,6 @@
-Fake and Real News Dataset from Kaggle. Natural Language Processing. 
+Fake News Detection
+Description: This dataset includes text data labeled as either “Fake” or “Real” news.
+Use Case: Build a classifier to distinguish between fake and real news articles.
+Columns: title, text, label
+Why It’s Suitable: It’s a straightforward binary classification task with rich textual data, allowing you to practice feature extraction and classification.
+Link: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
